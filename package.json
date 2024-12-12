@@ -6,7 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "nodemailer",
+    "elastic-email",
+    "email-transport",
+    "email-api",
+    "nodemailer-plugin",
+    "elasticemail",
+    "email-sender",
+    "smtp-alternative",
+    "email-service",
+    "nodemailer-transport",
+    "email-integration",
+    "api-transport",
+    "node-email",
+    "email-delivery",
+    "email-package",
+    "axios"
+  ],
   "author": "Rafayel Tobelyan",
   "license": "ISC",
   "dependencies": {
