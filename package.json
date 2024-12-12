@@ -1,6 +1,6 @@
 {
   "name": "elastic-email-transport-nodemailer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Nodemailer transport for Elastic Email API",
   "main": "index.js",
   "scripts": {
