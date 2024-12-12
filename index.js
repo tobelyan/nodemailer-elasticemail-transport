@@ -44,7 +44,7 @@ class ElasticEmailTransport {
 module.exports = (options) => {
     return {
         name: 'ElasticEmailTransport',
-        version: '1.0.0',
+        version: '1.0.1',
         send: (mail, callback) => new ElasticEmailTransport(options).send(mail, callback),
     };
 };
